@@ -34,12 +34,15 @@ criaCartao(
     'Práticas como plantio direto e rotação de culturas evitam a erosão, aumentam a fertilidade do solo e melhoram a produtividade das lavouras.'
 )
 
+criaCartao(
     'agrinho',
     'Qual é o papel da água na sustentabilidade do campo?',
     'A água é essencial para a produção agrícola. Seu uso racional, por meio de sistemas de irrigação eficientes e preservação das nascentes, garante disponibilidade para o futuro.'
+)
 
 criaCartao(
-    '. O que são práticas agroecológicas?',
+    'agrinho',
+    'O que são práticas agroecológicas?',
     'São métodos de produção que respeitam os ciclos naturais, promovem a biodiversidade e reduzem a dependência de produtos químicos.'
 )
 
